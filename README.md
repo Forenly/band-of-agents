@@ -1,5 +1,10 @@
 # RoboFleet Coordinator — Band of Agents Hackathon
 
+> [!IMPORTANT]
+> ### 🏆 GRAND PRIZE POOL: $10,000+ USD!
+> **1st Place:** $3,500 USD Cash! Let's orchestrate a legendary multi-agent swarm to conquer the leaderboard! 🐝🚀
+
+
 > Entry for the **Band of Agents Hackathon** (lablab.ai × Band). *"Build enterprise multi-agent systems with Band and Codeband."* Fully online · build **Jun 12–19, 2026** · **$9,500 prize pool.**
 
 **Tagline:** Orchestrate a fleet of autonomous inspection and delivery robots — task allocation, coordination, and conflict resolution — with Band as the cross-agent collaboration layer.
